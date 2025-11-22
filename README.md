@@ -17,31 +17,42 @@ Indie Dietyy is a web-based personalized diet planning system developed using Py
 - Offers a simple Streamlit-based interface for quick diet plan generation.
 
 ## Requirements
-- Operating System: Compatible with Windows, macOS, or Linux for running the Streamlit application.
-- Programming Language: Python 3.8 or above is required for building and executing the web application.
-- Web Framework: Streamlit is used to develop the interactive diet recommendation interface.
-- Database/Storage: CSV/JSON files (or optional MongoDB) to store regional food data and dietary suggestions.
-- Libraries & Dependencies: Requires Pandas for data handling, NumPy for basic processing, and Streamlit UI components.
-- IDE/Code Editor: VSCode or PyCharm recommended for writing, debugging, and managing the project code.
-- Package Manager: Pip should be used to install project dependencies via requirements.txt.
+- Hardware Specifications:
+Processor – 12th Gen Intel(R) Core(TM) i5-1235U (1.30 GHz),
+disk drive – 238 GB,
+RAM – 16.00 GB,
+OS – Windows 10 Home ©2017 Microsoft corporation,
+Keyboard, Mouse.
+
+- Software Specifications:
+OS	Windows 11, Linux Ubuntu, macOS,
+Programming Language: Python (ML),
+Frontend: HTML, CSS,
+Database: MySQL ,
+Machine Learning Libraries	: Pandas, NumPy, Scikit-learn, Streamlit,
+IDE/Tools	VS Code,
+Visualization	Matplotlib / Seaborn (optional),
+Other tools: Github
+
 
 ## System Architecture
+<img width="608" height="476" alt="Screenshot 2025-10-24 194408" src="https://github.com/user-attachments/assets/c84a5b3f-6649-4ab0-b7e1-1e0e479ab062" />
 
 
 ## Output
 
-#### Output1 - Name of the output
+#### Output1 - Home page
+<img width="1919" height="976" alt="Screenshot 2025-10-24 203548" src="https://github.com/user-attachments/assets/23f48a10-e66c-4f7d-b049-962fc9202d4d" />
 
 
-#### Output2 - Name of the output
+#### Output2 - After giving the preferences, the diet plan is generated
+<img width="1919" height="908" alt="Screenshot 2025-10-24 204304" src="https://github.com/user-attachments/assets/d0180e26-d07c-4c0b-acf7-b453caa7675a" />
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
-
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+The Indie Dietyy system generates personalized meal plans based on individual body metrics and regional food preferences, producing accurate calorie estimates and balanced nutrient distributions. The project effectively proves that customized diets are more practical and sustainable than generic diet charts, especially when aligned with Indian cuisine. Users receive culturally relevant meal suggestions that promote healthy eating without drastically changing food habits. The impact of this system lies in encouraging long-term lifestyle improvement, increasing awareness of nutrition, and supporting health goals such as weight control and fitness. Overall, the project demonstrates how technology can simplify diet planning and make personalized nutrition accessible to everyone.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+- [1]	M. Veeramreddy, A. K. Pradhan, S. Ghanta, L. Rachakonda, and S. P. Mohanty, “NUTRIVISION: A System for Automatic Diet Management in Smart Healthcare,” arXiv preprint arXiv:2409.20508, 2024.
+- [2]	A. Nagarkar, C. Rangam, and T. Suryawanshi, “Recommendation of Indian Cuisine Recipes Based on Ingredients,” in Proc. 2019 IEEE 35th International Conference on Data Engineering Workshops (ICDEW), Macao, China, Apr. 2019, pp. 96-99.
+- [3]	S. Gaikwad, P. Awatade, Y. Sirdeshmukh, and C. Prasad, “Diet Plan and Home Exercise Recommendation System Using Smart Watch,” in Proc. 2023 International Conference on Artificial Intelligence for Innovations in Healthcare Industries (ICAIIHI), Raipur, India, Dec. 2023, pp. 463-467. doi:10.1109/ICAIIHI57871.2023.10489367
